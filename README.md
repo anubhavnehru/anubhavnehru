@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Anubhav Nehru
+### Hi there 👋, I am Anubhav Nehru
 
 - **Email:** anubhavnehru@utexas.edu
 - **LinkedIn:** [Anubhav Nehru - LinkedIn](#)
