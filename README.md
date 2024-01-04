@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Anubhav Nehru
-<br>
+
 I'm a Masters in Business Analytics student at UT Austin, backed by 4 years in Data Science across startups and consulting in India.I will be graduating in May 2024 and am actively looking for roles in Business Analytics, Data Science and Machine Learning.
 
 - 🔭 I’m currently working on .... <br>
