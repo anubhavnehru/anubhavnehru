@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Anubhav Nehru
 
-- 🔭 I’m currently working on :
+- 🔭 I’m currently working on :<br>
    Expanding my skillset in Data science and analytics domain by pursuing Masters in Business Analytics at University of Texas at Austin
 - 🌱 I’m currently learning :
    Advanced Machine Learning, Deep Learning , Optimization, Time Series Forecasting, Unsupervised Learning, NLP , LLMs, etc....
