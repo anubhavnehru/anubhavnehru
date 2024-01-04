@@ -5,59 +5,22 @@
 - **GitHub:** [Anubhav Nehru - GitHub](#)
 - **Phone:** (512) 825-3954
 
-## Education
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anubhavnehru) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhav-nehru97) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@anubhavnehru046) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/anubhav-nehru) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anubhavnehru619) 
 
-**The University of Texas at Austin**
-*Master of Science, Business Analytics*
-- May 2024
-- GPA: 4.00/4.00
-- Coursework: Data Science Programming, Advanced Machine Learning, Optimization, Unstructured Data Analysis
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anubhavnehru&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anubhavnehru&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavnehru&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-**Sinhgad College of Engineering**
-*B.Tech, Information Technology*
-- June 2019
+---
+[![](https://visitcount.itsvg.in/api?id=anubhavnehru&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## Technical Skills
-
-- **Languages/Packages:** Python, R, SQL, Numpy, Pandas, Scikit-learn, PySpark, Apache Kafka, Apache Druid
-- **Modeling:** Supervised Learning, Neural Networks, Clustering, Time Series
-- **Data Manipulation:** SparkSQL, Databricks, Alteryx, Advanced Excel, Hadoop, Apache Airflow
-- **Data Visualization:** Tableau, Figma, RShiny, Plotly, Seaborn, Matplotlib
-
-## Work Experience
-
-### Swiggy – Business Analyst, Bangalore
-*September 2021 - May 2023*
-
-- Led the $20M+ revenue(estimated) generating co-branded credit card pilot charter.
-- Orchestrated the development of Airflow and Snowflake powered data pipeline.
-- Engineered mobile-friendly dashboards, reducing peak-day order cancellation rates by 25%.
-
-### Mu Sigma – Trainee Decision Scientist, Bangalore
-*September 2019 - September 2021*
-
-- Developed an XGBoost-based cash-back offer scenario planner.
-- Improved the ability to leverage weather forecasts by 30%.
-- Engineered a Model Deviation Monitoring Framework for 10+ production data science models.
-
-## Academic Projects
-
-- Cardiovascular Disease Risk Prediction
-- E-commerce customer churn prediction
-- Instacart Market Basket Analysis
-- Hit Song Recipe Extraction through Topic Modeling
-
-## Additional Information
-
-- **Awards & Recognitions:**
-  - Best Outgoing Student Award (Sinhgad College of Engineering - 2019)
-  - Spot Award (Mu-Sigma - 2021)
-  - Most Valued Player Award (Swiggy - 2022)
-
-- **Volunteering:**
-  - Devoted 2 hours/week to teach coding to underprivileged kids for a year through Mentors Without Borders
 
 - **Work Eligibility:** U.S. work allowed with S.T.E.M. certification; seeking visa sponsorship for a long-term role.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!--
