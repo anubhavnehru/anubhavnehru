@@ -6,7 +6,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/anubhav-nehru)
  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anubhavnehru619) 
 [![anubhavnehru](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anubhavnehru) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://google.com/anubhavnehru046@gmail.com) 
+
 
 
 # 💻 Tech Stack:
