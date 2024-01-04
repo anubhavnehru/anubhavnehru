@@ -41,7 +41,7 @@ I'm a Masters in Business Analytics student at UT Austin, backed by 4 years in D
 
 
 
-## ork Eligibility :
+## Work Eligibility :
 U.S. work allowed with S.T.E.M. certification; seeking visa sponsorship for a long-term role.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
