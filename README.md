@@ -48,7 +48,7 @@ Want to look at my resume ? - [Here](https://docs.google.com/document/d/10KhquR1
 **StrataScratch** : <br>
 ![image](https://github.com/anubhavnehru/anubhavnehru/assets/32483022/964770bb-25af-4cf6-8e84-98337e0f3137)
 
-**HackeRank** : <br>
+**HackerRank** : <br>
 ![image](https://github.com/anubhavnehru/anubhavnehru/assets/32483022/8d77d56d-9206-48d4-9581-d29d6ed3ba50)
 
 
