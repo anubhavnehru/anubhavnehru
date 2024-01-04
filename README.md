@@ -4,11 +4,11 @@
    Expanding my skillset in Data science and analytics domain by pursuing Masters in Business Analytics at University of Texas at Austin
 - 🌱 I’m currently learning .... <br>
    Advanced Machine Learning, Deep Learning , Optimization, Time Series Forecasting, Unsupervised Learning, NLP , LLMs, etc....
-- <br>🤔 I’m looking for help with .... <br><br>
+- 🤔 I’m looking for help with .... <br><br>
   Referrals and lead for jobs in Analytics, Data Science and ML space in the Unites States of America
-- <br>💬 Ask me about .... <br>
+- 💬 Ask me about .... <br>
    Machine Learning, Cricket, Roadtrips, India, Bollywood, Meditation, Self-improvement, Sarcasm, Travelling
-- <br>⚡ Fun fact .... <br><br>
+- ⚡ Fun fact .... <br><br>
   I am chandler i make jokes when I'm uncomfortable<br>
 
 ## 🌐 Reach me at :
