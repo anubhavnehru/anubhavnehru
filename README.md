@@ -40,6 +40,15 @@ Want to look at my resume ? - [Here](https://docs.google.com/document/d/10KhquR1
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
+#  🚀 Projects:
+
+1. [Drowsy Driver Detection using CNN and Transfer Learning](https://github.com/anubhavnehru/Drowsy-Driver-Detection)
+2. [Instacart Market Basket Analysis](https://github.com/anubhavnehru/Instacart-Market-Basket-Analysis)
+3. [Topic Modelling: Hit Song Recipe Extraction](https://github.com/anubhavnehru/Topic-Modeling-Hit-Song-Recipe-Extraction)
+4. [E-commerce Churn Prediction](https://github.com/anubhavnehru/Ecommerce_Churn_Prediction)
+5. [Cardiovascular Disease(CVD) risk prediction](https://github.com/anubhavnehru/CVD_Risk_Prediction)
+
+
 # 📊 Competitive Coding Stats:
 
 **Leetcode** : <br>
