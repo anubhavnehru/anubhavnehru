@@ -12,7 +12,7 @@ I'm a Masters in Business Analytics student at UT Austin, backed by 4 years in D
    Machine Learning, Cricket, Roadtrips, India, Bollywood, Meditation, Self-improvement, Sarcasm, Travelling
 - 💼 Do read my resume : [Here](https://docs.google.com/document/d/10KhquR1TEAdy5buH63jk5x2HEg9HPVLlEgebotIpVv0/edit?usp=sharing)
 - ⚡ Fun fact .... <br>
-  I am chandler i make jokes when I'm uncomfortable
+  I am chandler I make jokes when I'm uncomfortable
 
 
 ## 🌐 Reach me at :
