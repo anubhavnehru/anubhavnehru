@@ -1,15 +1,15 @@
 ### Hi there 👋, I am Anubhav Nehru
 
 - 🔭 I’m currently working on .... <br><br>
-   Expanding my skillset in Data science and analytics domain by pursuing Masters in Business Analytics at University of Texas at Austin
+   Expanding my skillset in Data science and analytics domain by pursuing Masters in Business Analytics at University of Texas at Austin<br>
 - 🌱 I’m currently learning .... <br><br>
-   Advanced Machine Learning, Deep Learning , Optimization, Time Series Forecasting, Unsupervised Learning, NLP , LLMs, etc....
+   Advanced Machine Learning, Deep Learning , Optimization, Time Series Forecasting, Unsupervised Learning, NLP , LLMs, etc....<br>
 - 🤔 I’m looking for help with .... <br><br>
-  Referrals and lead for jobs in Analytics, Data Science and ML space in the Unites States of America
+  Referrals and lead for jobs in Analytics, Data Science and ML space in the Unites States of America<br>
 - 💬 Ask me about .... <br><br>
-   Machine Learning, Cricket, Roadtrips, India, Bollywood, Meditation, Self-improvement, Sarcasm, Travelling
+   Machine Learning, Cricket, Roadtrips, India, Bollywood, Meditation, Self-improvement, Sarcasm, Travelling<br>
 - ⚡ Fun fact .... <br><br>
-  I am chandler i make jokes when I'm uncomfortable
+  I am chandler i make jokes when I'm uncomfortable<br>
 
 ## 🌐 Reach me at :
 [![anubhav-nehru97](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhav-nehru97)
