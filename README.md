@@ -8,8 +8,8 @@
   Referrals and lead for jobs in Analytics, Data Science and ML space in the Unites States of America
 - 💬 Ask me about .... <br>
    Machine Learning, Cricket, Roadtrips, India, Bollywood, Meditation, Self-improvement, Sarcasm, Travelling
-- ⚡ Fun fact .... <br><br>
-  I am chandler i make jokes when I'm uncomfortable<br>
+- ⚡ Fun fact .... <br>
+  I am chandler i make jokes when I'm uncomfortable
 
 ## 🌐 Reach me at :
 [![anubhav-nehru97](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhav-nehru97)
