@@ -10,10 +10,10 @@ I'm a Masters in Business Analytics student at UT Austin, backed by 4 years in D
   Referrals and lead for jobs in Analytics, Data Science and ML space in the Unites States of America
 - 💬 Ask me about .... <br>
    Machine Learning, Cricket, Roadtrips, India, Bollywood, Meditation, Self-improvement, Sarcasm, Travelling
+- 💼 Do read my resume : [Here](https://docs.google.com/document/d/10KhquR1TEAdy5buH63jk5x2HEg9HPVLlEgebotIpVv0/edit?usp=sharing)
 - ⚡ Fun fact .... <br>
   I am chandler i make jokes when I'm uncomfortable
 
-Want to look at my resume ? - [Here](https://docs.google.com/document/d/10KhquR1TEAdy5buH63jk5x2HEg9HPVLlEgebotIpVv0/edit?usp=sharing)
 
 ## 🌐 Reach me at :
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:anubhavnehru@utexas.edu)
