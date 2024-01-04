@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on .... <br>
    Expanding my skillset in Data science and analytics domain by pursuing Masters in Business Analytics at University of Texas at Austin
- <br>
-- 🌱 I’m currently learning .... <br>
+  - 🌱 I’m currently learning .... <br>
    Advanced Machine Learning, Deep Learning , Optimization, Time Series Forecasting, Unsupervised Learning, NLP , LLMs, etc....
 - <br>🤔 I’m looking for help with .... <br><br>
   Referrals and lead for jobs in Analytics, Data Science and ML space in the Unites States of America
