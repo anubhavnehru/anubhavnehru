@@ -42,6 +42,9 @@ Want to look at my resume ? - [Here](https://docs.google.com/document/d/10KhquR1
 
 # 📊 Competitive Coding Stats:
 
+- Leetcode : 
+![image](https://github.com/anubhavnehru/anubhavnehru/assets/32483022/bc6899d0-d222-483c-a085-570bec324b17)
+
 
 
 ## Work Eligibility :
