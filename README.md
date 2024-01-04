@@ -13,6 +13,8 @@ I'm a Masters in Business Analytics student at UT Austin, backed by 4 years in D
 - ⚡ Fun fact .... <br>
   I am chandler i make jokes when I'm uncomfortable
 
+Want to look at my resume ? - [Here](https://docs.google.com/document/d/10KhquR1TEAdy5buH63jk5x2HEg9HPVLlEgebotIpVv0/edit?usp=sharing)
+
 ## 🌐 Reach me at :
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:anubhavnehru@utexas.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhav-nehru97)
