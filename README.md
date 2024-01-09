@@ -55,7 +55,7 @@ I'm a Masters in Business Analytics student at UT Austin, backed by 4 years in D
 ![image](https://github.com/anubhavnehru/anubhavnehru/assets/32483022/bc6899d0-d222-483c-a085-570bec324b17)
 
 **StrataScratch** : <br>
-![image](https://github.com/anubhavnehru/anubhavnehru/assets/32483022/964770bb-25af-4cf6-8e84-98337e0f3137)
+![image](https://github.com/anubhavnehru/anubhavnehru/assets/32483022/c48fb9e2-e96a-40b0-92cb-962ef37ea2cc)
 
 **HackerRank** : <br>
 ![image](https://github.com/anubhavnehru/anubhavnehru/assets/32483022/8d77d56d-9206-48d4-9581-d29d6ed3ba50)
