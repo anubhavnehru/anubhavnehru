@@ -10,7 +10,6 @@ I'm a Masters in Business Analytics student at UT Austin, backed by 4 years in D
   Referrals and lead for jobs in Analytics, Data Science and ML space in the Unites States of America
 - 💬 Ask me about .... <br>
    Machine Learning, Cricket, Roadtrips, India, Bollywood, Meditation, Self-improvement, Sarcasm, Travelling
-- 💼 Do read my resume : [Here](https://docs.google.com/document/d/15-hC4YmgnIf7OEcvGgtDUWlTyUBazi3ig0N2okKf4FE/edit?usp=sharing)
 - ⚡ Fun fact .... <br>
   I am chandler I make jokes when I'm uncomfortable
 
